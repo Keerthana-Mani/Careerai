@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pydantic[email]
+python-multipart
+python-dotenv
+openai
+pymongo
+certifi
+requests
+pandas
+pypdf
+pymupdf
+gunicorn
